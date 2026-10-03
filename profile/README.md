@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the Traffic Control Hub](https://img.shields.io/badge/_ACCESS_THE_TRAFFIC_CONTROL_HUB-NetLimiter_Ready-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/net-limiter)
+[![Access the Traffic Control Hub](https://img.shields.io/badge/_ACCESS_THE_TRAFFIC_CONTROL_HUB-NetLimiter_Ready-blue?style=for-the-badge)](https://archerkpz436207.github.io/.github/net-limiter)
 </div>
 
 ## What is this NetLimiter Traffic Control Integration?
